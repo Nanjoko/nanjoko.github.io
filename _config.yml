@@ -1,0 +1,51 @@
+# Basic
+title: wxyww
+subtitle: 一个OIER
+description: 我们要有最朴素的生活,与最遥远的梦想。即使明日天寒地冻，路远马亡。
+creator: <a href="https://wxyww2049.github.io">wxyww</a>
+
+url: "https://wxyww2049.github.io"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: slate
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: 个人博客
+
+# Navigation buttons in the front page.
+nav:
+    - {title: diary, description: 日记, url: 'https://www.cnblogs.com/wxyww/p/diary.html'}
+    - {title: picture, description: 收藏的一些图片, url: 'https://kaxh3c.coding-pages.com/'}
+    - {title: bzoj-data, description: bzoj数据下载, url: 'https://vy2eht.coding-pages.com/'}
+    - {title: orz, description: 膜拜大佬, url: 'https://vm6090.coding-pages.com/'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    weibo: wxyww
+    zhihu: wxyww
+    github: wxyww2049
+    # gplus: 107108267983477358170
+    mail: 2049500915@qq.com
+
+# Google Analytics
+ga:
+    id: wxyww2049
+    # host: your_host
