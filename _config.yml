@@ -1,10 +1,10 @@
 # Basic
-title: wxyww
+title: Nanjoko
 subtitle: 一个OIER
 description: 我们要有最朴素的生活,与最遥远的梦想。即使明日天寒地冻，路远马亡。
-creator: <a href="https://wxyww2049.github.io">wxyww</a>
+creator: <a href="https://nanjoko.github.io">Nanjoko</a>
 
-url: "https://wxyww2049.github.io"
+url: "https://nojokan.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -21,7 +21,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: diary, description: 日记, url: 'https://www.cnblogs.com/wxyww/p/diary.html'}
+    - {title: diary, description: 日记, url: '    https://www.cnblogs.com/wxyww/p/diary.html'}
     - {title: picture, description: 收藏的一些图片, url: 'https://kaxh3c.coding-pages.com/'}
     - {title: bzoj-data, description: bzoj数据下载, url: 'https://vy2eht.coding-pages.com/'}
     - {title: orz, description: 膜拜大佬, url: 'https://vm6090.coding-pages.com/'}
@@ -39,13 +39,13 @@ comment:
     
 # Social
 social:
-    weibo: wxyww
-    zhihu: wxyww
-    github: wxyww2049
+    weibo: nanjoqin
+    zhihu: nanjoqin
+    github: nanjoqin
     # gplus: 107108267983477358170
-    mail: 2049500915@qq.com
+    mail: 2698916678@qq.com
 
 # Google Analytics
 ga:
-    id: wxyww2049
+    id: nanjoko
     # host: your_host
